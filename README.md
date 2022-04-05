@@ -125,8 +125,8 @@ from pyrogram import filters # pyrogram filters
 
 
 # For /help menu
-__MODULE__ = "Module Name"
-__HELP__ = "Module help message"
+__MODULE__ = sushanth
+__HELP__ = " Hi sushanth bot here
 
 
 @app.on_message(filters.command("start"))
